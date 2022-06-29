@@ -1,32 +1,13 @@
-Github Classroom Assignment Template 
--------------------------------------
+Blocks
+------
 
-### Creating a Github Classroom Assignment
-
-1. Once the unittest file ```test.py``` is ready, encrypt it with the command:
-
-       python encrypt.py CRYPTO_KEY test.py
-
-   and then delete ```test.py```.
-
-2. When creating the assignment, make sure to check the box next 
-to **Enable feedback pull requests**.
-
-3. To add an autograding test to a Github Classroom Assignment,
-- **Setup command** should be:
-
-       sudo -H pip3 install pytest cryptography >/dev/null
-
-- **Run command** should be:
-
-       python3 autograder.py CRYPTO_KEY TEST_CLASS_NAME
-
-
-### Example Assignment Description for Students
-
-The assignment description can be found here.
+The assignment description can be found [here](https://docs.google.com/document/d/18jKkf3J997xi5g5y6n-roLmsQN3-VfgkKkprK6RC5do/edit?usp=sharing).
 
 This repository contains a starter file for the code you need to write:
-- `hw.py`: Put code in this file.
+- `puzzle.py`: Put code in this file.
+
+It also contains code that you can use but should not change:
+- 'search.py': Implementation of search algorithms from class.
+- 'ladder.py': Search-based problem solving for the word ladder problem.
 
 Ignore (but do not delete!!!) the other files in this repository.
