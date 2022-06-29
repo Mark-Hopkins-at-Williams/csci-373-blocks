@@ -1,5 +1,6 @@
-Blocks
-------
+![screenshot](data/blocks_image.png)
+
+## Blocks
 
 The assignment description can be found [here](https://docs.google.com/document/d/18jKkf3J997xi5g5y6n-roLmsQN3-VfgkKkprK6RC5do/edit?usp=sharing).
 
